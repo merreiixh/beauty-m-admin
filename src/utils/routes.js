@@ -7,7 +7,7 @@ import DeleteProduct from "../pages/Products/DeleteProduct";
 import EditProduct from "../pages/Products/EditProduct";
 import ProductDetail from "../pages/Products/ProductDetail";
 import Products from "../pages/Products/Products";
-import Help from "../pages/help"; 
+import Help from "../pages/Help"; 
 
 import {
     DASHBOARD,
